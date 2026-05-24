@@ -1,0 +1,23 @@
+# Kaggle competition artifacts
+final_models/
+neurogolf_data/
+gemma_push/
+gemma_fix_push/
+orbit_wars_submission/
+*.zip
+*.onnx
+
+# Compiled binaries
+*.so
+*.o
+*.out
+orbit_wars*
+llama-cli
+*.gguf
+
+# Cache
+__pycache__/
+*.pyc
+
+# VedaRta is separate repo
+VedaRta/
